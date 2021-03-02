@@ -2,3 +2,4 @@
 readme.txt
 #忽略所有txt文件
 *.txt
+/node_modules

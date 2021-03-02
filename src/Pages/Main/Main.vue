@@ -1,7 +1,7 @@
 <template>
   <div>
     <Header/>
-    Main area
+    Main area Here
   </div>
 </template>
 <script>
